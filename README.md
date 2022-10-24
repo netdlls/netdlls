@@ -2,7 +2,7 @@
 <h3 align="center">♡ I code things in JS. </h3>
 
 <p align="center"><img align="center"
-    <img src="https://i.imgur.com/cUDKrl3.png">
+    <img src="https://wallpaperaccess.com/full/2641049.gif">
 </p>
 
 <p align="center"><img align="center"
