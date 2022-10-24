@@ -1,4 +1,4 @@
-<h3 align="center">Joshy ♡</h3>
+<h3 align="center">Joshy/Yua ♡</h3>
 <h3 align="center">♡ I code things in JS. </h3>
 
 <p align="center"><img align="center"
