@@ -10,7 +10,7 @@
 <p align="center">
 
 <p align="center">
-    <img src="https://discord.c99.nl/widget/theme-2/765672517297766462.png" />
+    <img src="https://discord.c99.nl/widget/theme-3/765672517297766462.png" />
 </p>
 
 <p align = "center"><img align="center"
