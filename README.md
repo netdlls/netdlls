@@ -1,5 +1,5 @@
 <h3 align="center">Joshy/Sato ♡</h3>
-<h3 align="center">♡ I code things in JS ad HTML. </h3>
+<h3 align="center">♡ I code things in JS and HTML. </h3>
 
 <p align="center"><img align="center"
     <img src="https://wallpaperaccess.com/full/2641049.gif">
