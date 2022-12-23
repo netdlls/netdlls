@@ -2,7 +2,7 @@
 <h3 align="center">♡ I code things in JS and HTML. </h3>
 
 <p align="center"><img align="center"
-    <img src="(https://imgur.com/a/t8zy489)">
+    <img src="https://imgur.com/a/t8zy489">
 </p>
 
 <p align="center"><img align="center"
