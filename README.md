@@ -1,11 +1,11 @@
-# Meeh (●'◡'●)
+# Me
 * Name: Suki
 * Age: 16
 * Nationality: British Citizen
 
 <img src="https://i.imgur.com/MeIFR63.png">
 
-# My free time (*/ω＼*)
+# My free time
 * dirty minded
 * annoying people
 * being dumb
@@ -16,7 +16,7 @@
 
 <img src="https://pfps.gg/assets/banners/5783-zero-two.png">
 
-# Contact me ᓚᘏᗢ
+# Contacts
 * [Bio] (https://femboy.bio/sukii)
 * Discord: sukiii#0004
 * <img src="https://discord.c99.nl/widget/theme-3/765672517297766462.png">
