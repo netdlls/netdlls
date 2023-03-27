@@ -3,7 +3,7 @@
 * Age: 16
 * Nationality: British Citizen
 
-<img src="https://imgur.com/MeIFR63">
+<img src="https://i.imgur.com/MeIFR63.png">
 
 # My free time (*/ω＼*)
 * dirty minded
