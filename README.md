@@ -1,18 +1,26 @@
-<h3 align="center">Joshy/Sato ♡</h3>
-<h3 align="center">♡ I code things in JS and HTML. </h3>
+# Meeh (●'◡'●)
+* Name: Suki
+* Age: 16
+* Nationality: British Citizen
 
-<p align="center"><img align="center"
-    <img src="https://i.imgur.com/0t6TWyw.gif">
-</p>
+<img src="https://imgur.com/MeIFR63">
 
-<p align="center"><img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=lamesato&hide=contribs,prs&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
-<p align="center">
+# My free time (*/ω＼*)
+* dirty minded
+* annoying people
+* being dumb
+* playing mc
+* bot developer
+* roaming discord
+* web developing
 
-<p align="center">
-    <img src="https://discord.c99.nl/widget/theme-3/765672517297766462.png" />
-</p>
+<img src="https://pfps.gg/assets/banners/5783-zero-two.png">
 
-<p align = "center"><img align="center"
-         src"https://github-readme-stats.vercel.app/api?username=lamesato" />
-</p>               
+# Contact me ᓚᘏᗢ
+* [Bio] (https://femboy.bio/sukii)
+* Discord: sukiii#0004
+* <img src="https://discord.c99.nl/widget/theme-3/765672517297766462.png">
+
+
+
+* Old template by Akira which i just remade <3
