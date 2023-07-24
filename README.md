@@ -1,6 +1,6 @@
 # Me
 * Name: Suki
-* Age: 16
+* Age: 17
 * Nationality: British Citizen
 
 <img src="https://i.imgur.com/MeIFR63.png">
@@ -17,8 +17,8 @@
 <img src="https://pfps.gg/assets/banners/5783-zero-two.png">
 
 # Contacts
-* [Bio] (https://femboy.bio/sukii)
-* Discord: sukiii#0004
+* [Bio] (https://femboy.bio/suki)
+* Discord: sukilicious
 * <img src="https://discord.c99.nl/widget/theme-3/765672517297766462.png">
 
 
