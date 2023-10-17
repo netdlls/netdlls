@@ -18,8 +18,7 @@
 
 # Contacts
 * [Bio] (https://femboy.bio/suki)
-* Discord: sukilicious
-* <img src="https://discord.c99.nl/widget/theme-3/765672517297766462.png">
+* Discord: reroutes.
 
 
 
