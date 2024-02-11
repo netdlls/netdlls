@@ -12,8 +12,8 @@
 <img src="https://pfps.gg/assets/banners/5783-zero-two.png">
 
 # Contacts
-* [Bio] (https://e-z.bio/yume)
-* Discord: jinterposed
+* [Bio] (https://e-z.bio/jinx)
+* Discord: jinxterposed
 
 
 
