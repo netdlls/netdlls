@@ -1,9 +1,9 @@
 # Me
 * Name: Yuki
 * Age: 17
-~
+
 <img src="https://i.imgur.com/ivVDWe9.gif">
-~
+
 # My free time
 * bot developer
 * web developing
