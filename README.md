@@ -54,10 +54,9 @@
 ---
 
 ## 🎶 Now Playing
-<p align="center"?
-[![Spotify](https://img.shields.io/badge/Spotify-Track-blue?style=flat&logo=spotify)](https://open.spotify.com/track/5bei4jVciC4wlF8AuiVE4A?si=1c2da2ac9c264af6)
+<p align="center">
+  [![Spotify](https://img.shields.io/badge/Spotify-Track-blue?style=flat&logo=spotify)](https://open.spotify.com/track/5bei4jVciC4wlF8AuiVE4A?si=1c2da2ac9c264af6)
 </p>
-
 ---
 
 ## 🌸 Let's Connect!
