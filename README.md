@@ -54,7 +54,7 @@
 ---
 
 ## 🎶 Now Playing  
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/jinxzyyy)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/track/5bei4jVciC4wlF8AuiVE4A?si=1c2da2ac9c264af6)
 
 ---
 
