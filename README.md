@@ -54,14 +54,14 @@
 ---
 
 ## 🎶 Now Playing  
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/track/5bei4jVciC4wlF8AuiVE4A?si=1c2da2ac9c264af6)
+[![Spotify](https://img.shields.io/badge/Spotify-Track-blue?style=flat&logo=spotify)](https://open.spotify.com/track/5bei4jVciC4wlF8AuiVE4A?si=1c2da2ac9c264af6)
 
 
 ---
 
 ## 🌸 Let's Connect!
 <p align="center">
-  <a href="https://myanimelist.net/profile/yourusername" target="_blank">
+  <a href="https://myanimelist.net/profile/angelic" target="_blank">
     <img src="https://img.shields.io/badge/MyAnimeList-2e51a2?style=flat&logo=myanimelist" />
   </a>
 </p>
