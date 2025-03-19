@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/🌸-Anime%20Lover-pink?style=flat-square" />
   <img src="https://img.shields.io/badge/☕-Coffee%20Addict-brown?style=flat-square" />
-  <img src="https://img.shields.io/github/followers/yourusername?style=social" />
+  <img src="https://img.shields.io/github/followers/simplyangelic?style=social" />
 </p>
 
 <!-- Title -->
