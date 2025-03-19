@@ -29,11 +29,11 @@
 
 ---
 
-## 🌙 Anime Anthusiast  
+## 🌙 Anime Enthusiast  
 <p align="center">
-  <img src="https://64.media.tumblr.com/3ebfe83f4d2c67cbd918f86f63126305/21dc2d0912d3bb57-35/s500x750/1c7cbd1a7c85f3d8696e3bf3ec3c1b65b4db30b2.gif" width="30%"/>
-  <img src="https://64.media.tumblr.com/57a5f3ba8d6013ff22d5a5d98fbb8ea4/tumblr_npv8mdHyzZ1u6x3u0o1_500.gif" width="30%"/>
-  <img src="https://64.media.tumblr.com/95a0d8c7e74104ae7b446b3de7a7b364/tumblr_nmv62nHHRR1u6x3u0o1_500.gif" width="30%"/>
+  <img src="https://media1.tenor.com/m/kOmVqGOJyIUAAAAC/silent-power.gif" width="30%"/>
+  <img src="https://media1.tenor.com/m/ULP8xnL063MAAAAC/absolute-cinema-cinema.gif" width="30%"/>
+  <img src="https://media1.tenor.com/m/N1S-1am4ZXoAAAAC/spyxfamily-spy-x-family.gif" width="30%"/>
 </p>
 
 ---
