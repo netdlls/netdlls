@@ -1,80 +1,50 @@
-<!-- Banner Image -->
+<!-- banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/40/9e/12/409e125b851c547d7522f7eaa9ff5db5.jpg" alt="Anime Banner" width="800px"/>
+  <img src="https://i.pinimg.com/1200x/09/c5/9c/09c59cfd7857505f845ac99447ab23bf.jpg" width="800px" alt="black aesthetic banner"/>
 </p>
 
-<!-- Profile Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🌸-Anime%20Lover-pink?style=flat-square" />
-  <img src="https://img.shields.io/badge/☕-Tea%20Addict-brown?style=flat-square" />
-  <img src="https://img.shields.io/github/followers/simplyangelic?style=social" />
-</p>
+<h1 align="center">hello, i'm yuki</h1>
 
-<!-- Title -->
-<h1 align="center">Kon'nichiwa! 👋 I'm Yuki 🍡</h1>
-
-<!-- Short Bio -->
 <p align="center">
-✨ Anime Enthusiast | 💻 Frontend Developer | 🌙 Dreamer  
-「 Code by day, anime by night 」  
+coder of the night | anime enthusiast | minimalist  
+「 code in silence, dream in monochrome 」  
 </p>
 
 ---
 
-## 🌸 About Me
-- 🍙 I’m currently watching **[Solo Leveling](https://myanimelist.net/anime/52299/Ore_dake_Level_Up_na_Ken?cat=anime)**  
-- 🌱 I’m learning **cpp**  
-- 🎯 My goal is to hopefully get a job to make money and provide for people.
-- 🌌 Fun facts: My favorite anime is **Date-A-Live**, I know some Russian, Romanian, Korean, Japanese and English🎻  
+## about me
+- currently watching **[solo leveling](https://myanimelist.net/anime/52299/ore_dake_level_up_na_ken?cat=anime)**  
+- learning **c++**  
+- favorite anime: **date-a-live**  
+- languages: russian, romanian, korean, japanese, english  
 
----
-
-## 🌙 Anime Enthusiast  
 <p align="center">
-  <img src="https://media1.tenor.com/m/kOmVqGOJyIUAAAAC/silent-power.gif" width="30%"/>
-  <img src="https://media1.tenor.com/m/ULP8xnL063MAAAAC/absolute-cinema-cinema.gif" width="30%"/>
-  <img src="https://media1.tenor.com/m/N1S-1am4ZXoAAAAC/spyxfamily-spy-x-family.gif" width="30%"/>
+  <img src="https://i.pinimg.com/originals/5d/7c/80/5d7c80672f8e5b13ea2c0463c90ae06d.gif" width="400px" alt="aesthetic gif"/>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## tech stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/4a/58/af/4a58af155859d69c093ece734ccf9f90.gif" width="400px" alt="glitch gif"/>
 </p>
 
 ---
 
-## 📊 Stats  
+## stats
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=simplyangelic&show_icons=true&theme=sakura" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=simplyangelic&theme=sakura" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=simplyangelic&show_icons=false&bg_color=000000&title_color=ffffff&text_color=aaaaaa" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=simplyangelic&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/b8/7f/fa/b87ffa2f315f05652ed8dc23ba39bac4.gif" width="400px" alt="abstract gif"/>
 </p>
 
 ---
 
-## 🎶 Now Playing
-<p align="center">
-  <a href="https://open.spotify.com/track/5bei4jVciC4wlF8AuiVE4A?si=1c2da2ac9c264af6">
-    <img src="https://img.shields.io/badge/Spotify-Track-blue?style=flat&logo=spotify" alt="Spotify">
-  </a>
-</p>
----
-
-## 🌸 Let's Connect!
-<p align="center">
-  <a href="https://myanimelist.net/profile/angelic" target="_blank">
-    <img src="https://img.shields.io/badge/MyAnimeList-2e51a2?style=flat&logo=myanimelist" />
-  </a>
-</p>
-
----
-
-> "I don’t know if I’m cut out for this… but I want to try my best for this family." – *Yor Forger* 🍙  
-
----
-
-⭐️ From [Yuki](https://github.com/simplyangelic)  
-
----
-
+> *"even in the dark, the stars will guide you."*  
