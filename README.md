@@ -1,6 +1,6 @@
 <!-- banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/09/c5/9c/09c59cfd7857505f845ac99447ab23bf.jpg" width="800px" alt="black aesthetic banner"/>
+  <img src="https://i.pinimg.com/1200x/09/c5/9c/09c59cfd7857505f845ac99447ab23bf.jpg" width="100%" alt="black aesthetic banner"/>
 </p>
 
 <h1 align="center">hello, i'm yuki</h1>
@@ -19,7 +19,7 @@ coder of the night | anime enthusiast | minimalist
 - languages: russian, romanian, korean, japanese, english  
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/5d/7c/80/5d7c80672f8e5b13ea2c0463c90ae06d.gif" width="400px" alt="aesthetic gif"/>
+  <img src="https://i.pinimg.com/originals/5d/7c/80/5d7c80672f8e5b13ea2c0463c90ae06d.gif" width="100%" alt="aesthetic gif"/>
 </p>
 
 ---
@@ -30,7 +30,7 @@ coder of the night | anime enthusiast | minimalist
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/4a/58/af/4a58af155859d69c093ece734ccf9f90.gif" width="400px" alt="glitch gif"/>
+  <img src="https://i.pinimg.com/originals/4a/58/af/4a58af155859d69c093ece734ccf9f90.gif" width="100%" alt="glitch gif"/>
 </p>
 
 ---
@@ -42,7 +42,7 @@ coder of the night | anime enthusiast | minimalist
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b8/7f/fa/b87ffa2f315f05652ed8dc23ba39bac4.gif" width="400px" alt="abstract gif"/>
+  <img src="https://i.pinimg.com/originals/b8/7f/fa/b87ffa2f315f05652ed8dc23ba39bac4.gif" width="100%" alt="abstract gif"/>
 </p>
 
 ---
