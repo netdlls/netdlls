@@ -37,8 +37,8 @@ coder of the night | anime enthusiast | minimalist
 
 ## stats
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=simplyangelic&show_icons=false&bg_color=000000&title_color=ffffff&text_color=aaaaaa" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=simplyangelic&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=veilns&show_icons=false&bg_color=000000&title_color=ffffff&text_color=aaaaaa" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=veilns&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
 </p>
 
 <p align="center">
