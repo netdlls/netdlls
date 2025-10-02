@@ -3,11 +3,11 @@
   <img src="https://i.pinimg.com/1200x/09/c5/9c/09c59cfd7857505f845ac99447ab23bf.jpg" width="100%" alt="black aesthetic banner"/>
 </p>
 
-<h1 align="center">hello, i'm veil</h1>
+<h1 align="center">hello, i'm net</h1>
 
 <p align="center">
 coder of the night | anime enthusiast | minimalist  
-「 code in silence, dream in monochrome 」  
+「 Isabella my love 」  
 </p>
 
 ---
