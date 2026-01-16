@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">🌿 Hey there, I’m <net></h1>
+<h1 align="center">🌿 Hey there, I’m net</h1>
 <h3 align="center">☕ Aesthetic Developer | Dreaming of becoming good</h3>
 
 <p align="center">
