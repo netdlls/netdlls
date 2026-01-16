@@ -1,50 +1,56 @@
-<!-- banner -->
-<p align="center">
-  <img src="https://i.pinimg.com/1200x/09/c5/9c/09c59cfd7857505f845ac99447ab23bf.jpg" width="100%" alt="black aesthetic banner"/>
-</p>
-
-<h1 align="center">hello, i'm net</h1>
+<!-- Header -->
+<h1 align="center">🌿 Hey there, I’m <YOUR NAME></h1>
+<h3 align="center">☕ Aesthetic Developer | Dreaming in Catppuccin Tones</h3>
 
 <p align="center">
-coder of the night | anime enthusiast | minimalist  
-「 Isabella my love 」  
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" alt="Catppuccin Palette"/>
 </p>
 
 ---
 
-## about me
-- currently watching **[solo leveling](https://myanimelist.net/anime/52299/ore_dake_level_up_na_ken?cat=anime)**  
-- learning **c++**  
-- favorite anime: **date-a-live**  
-- languages: russian, romanian, korean, japanese, english  
+### 🎨 About Me
+- 🧁 Pastel code, clean commits, and cozy projects.  
+- 💻 I love building elegant frontends and expressive UIs.  
+- 🪴 Minimalism, typography, and color harmony drive my design choices.  
+- 🐈 Cat-enjoyer, tea-sipper, and VSCode theme enthusiast.
 
+---
+
+### 🌈 My Stack
+#### Languages
+🩵 JavaScript • 💜 TypeScript • 🍃 Python • 🧡 HTML/CSS  
+
+#### Frameworks & Tools
+🎐 React • 🌿 Next.js • 🌸 TailwindCSS • 🪄 Node.js • ☁️ Firebase  
+
+---
+
+### ☕ Featured Projects
+| Project | Description | Tech |
+|:--------|:-------------|:------|
+| **PastelUI** | A Catppuccin-inspired UI kit for React | React, TailwindCSS |
+| **SoftNotes** | Minimal markdown note app with beautiful themes | Next.js, Firebase |
+| **CosyWidgets** | Personalised widgets in pastel tones | JavaScript, CSS |
+
+---
+
+### ☁️ Stats & Activity
 <p align="center">
-  <img src="https://i.pinimg.com/originals/5d/7c/80/5d7c80672f8e5b13ea2c0463c90ae06d.gif" width="100%" alt="aesthetic gif"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=b7bdf8&icon_color=ddb6f2&text_color=cdd6f4" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=<YOUR_USERNAME>&theme=catppuccin-mocha&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
 
-## tech stack
+### 🌸 Find Me Elsewhere
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,python&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/4a/58/af/4a58af155859d69c093ece734ccf9f90.gif" width="100%" alt="glitch gif"/>
-</p>
-
----
-
-## stats
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=veilns&show_icons=false&bg_color=000000&title_color=ffffff&text_color=aaaaaa" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=veilns&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/b8/7f/fa/b87ffa2f315f05652ed8dc23ba39bac4.gif" width="100%" alt="abstract gif"/>
+  <a href="https://www.linkedin.com/in/<your-link>"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
+  <a href="https://twitter.com/<your-handle>"><img src="https://skillicons.dev/icons?i=twitter" height="30"/></a>
+  <a href="https://<your-portfolio-url>"><img src="https://skillicons.dev/icons?i=web" height="30"/></a>
 </p>
 
 ---
 
-> *"even in the dark, the stars will guide you."*  
+<p align="center">
+  🍰 Powered by <a href="https://github.com/catppuccin">Catppuccin</a> · Made with 💖 and a splash of vanilla.
+</p>
