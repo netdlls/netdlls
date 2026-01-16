@@ -34,15 +34,6 @@
 
 ---
 
-### 🌸 Find Me Elsewhere
-<p align="center">
-  <a href="https://www.linkedin.com/in/<your-link>"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
-  <a href="https://twitter.com/<your-handle>"><img src="https://skillicons.dev/icons?i=twitter" height="30"/></a>
-  <a href="https://<your-portfolio-url>"><img src="https://skillicons.dev/icons?i=web" height="30"/></a>
-</p>
-
----
-
 <p align="center">
   🍰 Powered by <a href="https://github.com/catppuccin">Catppuccin</a> · Made with 💖 and a splash of vanilla.
 </p>
