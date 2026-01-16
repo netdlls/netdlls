@@ -34,14 +34,6 @@
 
 ---
 
-### ☁️ Stats & Activity
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=<netdlls>&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=b7bdf8&icon_color=ddb6f2&text_color=cdd6f4" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=<netdlls>&theme=catppuccin-mocha&hide_border=true" alt="GitHub streak"/>
-</p>
-
----
-
 ### 🌸 Find Me Elsewhere
 <p align="center">
   <a href="https://www.linkedin.com/in/<your-link>"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
