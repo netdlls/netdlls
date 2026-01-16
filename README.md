@@ -1,6 +1,6 @@
 <!-- Header -->
-<h1 align="center">🌿 Hey there, I’m <YOUR NAME></h1>
-<h3 align="center">☕ Aesthetic Developer | Dreaming in Catppuccin Tones</h3>
+<h1 align="center">🌿 Hey there, I’m <net></h1>
+<h3 align="center">☕ Aesthetic Developer | Dreaming of becoming good</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" alt="Catppuccin Palette"/>
@@ -36,8 +36,8 @@
 
 ### ☁️ Stats & Activity
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=b7bdf8&icon_color=ddb6f2&text_color=cdd6f4" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=<YOUR_USERNAME>&theme=catppuccin-mocha&hide_border=true" alt="GitHub streak"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=<nettdlls>&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=b7bdf8&icon_color=ddb6f2&text_color=cdd6f4" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=<nettdlls>&theme=catppuccin-mocha&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
