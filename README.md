@@ -25,15 +25,6 @@
 
 ---
 
-### ☕ Featured Projects
-| Project | Description | Tech |
-|:--------|:-------------|:------|
-| **PastelUI** | A Catppuccin-inspired UI kit for React | React, TailwindCSS |
-| **SoftNotes** | Minimal markdown note app with beautiful themes | Next.js, Firebase |
-| **CosyWidgets** | Personalised widgets in pastel tones | JavaScript, CSS |
-
----
-
 <p align="center">
   🍰 Powered by <a href="https://github.com/catppuccin">Catppuccin</a> · Made with 💖 and a splash of vanilla.
 </p>
