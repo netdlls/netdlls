@@ -1,24 +1,22 @@
-<!-- Header -->
 <h1 align="center">Hey there, I’m net</h1>
-<h3 align="center">Web Developer | Dreaming of becoming good</h3>
+<h3 align="center">Web Developer | Twenty</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" alt="Catppuccin Palette"/>
+  <img src="https://i.pinimg.com/1200x/53/3f/78/533f78f885dc60b50275f70094c20b47.jpg" alt="Car"/>
 </p>
 
 ---
-
 ### About Me
-- Pastel code, clean commits, and cozy projects.  
-- I love building elegant frontends and expressive UIs.  
-- Minimalism, typography, and color harmony drive my design choices.  
-- Cat-enjoyer and VSCode glazer.
+- currently working on: nothing
+- learning: Coding
+- based in: Netherlands
+- contact: [Discord](https://discord.com/users/479415021537853451)
 
 ---
 
 ### My Stack
 #### Languages
-JavaScript • TypeScript • Python • HTML/CSS  
+JavaScript • Python • HTML/CSS  
 
 #### Frameworks & Tools
 React • Next.js • TailwindCSS • Node.js 
@@ -26,5 +24,5 @@ React • Next.js • TailwindCSS • Node.js
 ---
 
 <p align="center">
-  Powered by <a href="https://github.com/catppuccin">Catppuccin</a> · Made with 💖 and a splash of vanilla.
+  Powered by <a href="https://github.com/netdlls">Cars</a> · Car Accident
 </p>
